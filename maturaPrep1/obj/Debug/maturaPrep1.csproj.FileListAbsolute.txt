@@ -1,0 +1,8 @@
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\bin\Debug\maturaPrep1.exe.config
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\bin\Debug\maturaPrep1.exe
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\bin\Debug\maturaPrep1.pdb
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\obj\Debug\maturaPrep1.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\obj\Debug\maturaPrep1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\obj\Debug\maturaPrep1.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\obj\Debug\maturaPrep1.exe
+C:\Users\Game\Desktop\C# BASICS\demo_projects\maturaPrep1\maturaPrep1\obj\Debug\maturaPrep1.pdb
